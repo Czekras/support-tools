@@ -16,14 +16,14 @@
       "status": "on"
     },
     {
-      "name": "Contact",
+      "name": "Contact Form",
       "short": "Contact",
       "url": "https://czekras.github.io/contact/",
       "icon": "clipboard-list",
       "status": "on"
     },
     {
-      "name": "Kanban",
+      "name": "Kanban Board",
       "short": "Kanban",
       "url": "https://czekras.github.io/kanban/",
       "icon": "square-kanban",
@@ -34,7 +34,7 @@
       "short": "Compressor",
       "url": "",
       "icon": "image-down",
-      "status": "soon"
+      "status": "off"
     }
   ]
 }
